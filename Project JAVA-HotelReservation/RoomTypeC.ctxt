@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RoomTypeC
+comment1.params=maxCapacity\ minPerson\ minDays
+comment1.target=RoomTypeC(int,\ int,\ int)
+comment2.params=res
+comment2.target=boolean\ getReservation(Reservation)
+numComments=3

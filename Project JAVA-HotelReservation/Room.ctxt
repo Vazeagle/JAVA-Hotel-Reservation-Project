@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=maxCapacity\ pricePerPerson
+comment1.target=Room(int,\ double)
+comment2.params=
+comment2.target=int\ getroomCode()
+comment3.params=
+comment3.target=int\ getmaxCapacity()
+comment4.params=
+comment4.target=double\ getpricePerPerson()
+comment5.params=
+comment5.target=double\ income()
+comment6.params=cancelCode
+comment6.target=boolean\ cancel(int)
+comment7.params=
+comment7.target=double\ full()
+comment8.params=i
+comment8.target=boolean\ check(int)
+numComments=9

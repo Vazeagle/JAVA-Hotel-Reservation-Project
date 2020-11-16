@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Hotel
+comment1.params=room
+comment1.target=void\ addRoom(Room)
+comment10.params=
+comment10.target=java.util.ArrayList\ getListRoom()
+comment11.params=
+comment11.target=java.util.ArrayList\ getListReservation()
+comment2.params=resCode
+comment2.target=Reservation\ recoveryReservationCode(int)
+comment3.params=roomCode
+comment3.target=Room\ recoveryRoomCode(int)
+comment4.params=res\ roomCode
+comment4.target=boolean\ addRoomReservation(Reservation,\ int)
+comment5.params=res
+comment5.target=int\ addReservation(Reservation)
+comment6.params=resCode
+comment6.target=void\ cancelReservation(int)
+comment7.params=roomCode
+comment7.target=double\ incomeCalc(int)
+comment8.params=
+comment8.target=double\ incomeCalc()
+comment9.params=
+comment9.target=void\ resPlan()
+numComments=12
